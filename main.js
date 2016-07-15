@@ -4,7 +4,7 @@ var main_state = {
 
     preload: function() {
 
-        this.game.stage.backgroundColor = '#000000';
+        this.game.stage.backgroundColor = '#93d0ff';
         this.game.load.image('me', 'assets/me.png');
 
     },
